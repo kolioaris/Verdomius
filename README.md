@@ -1,58 +1,95 @@
 # Verdomius
 ## Table of contents
- - [Table of contents](#table-of-contents)
- - [What is that?](#what-is-that)
- - [Installed Updates](#pre-installed-updates)
- - [Installed Updates](#pre-installed-apps)
- - [Removed Apps & Features](#removed-apps--features)
+- [Table of contents](#table-of-contents)
+- [What is that?](#what-is-that)
+- [Installed Updates](#pre-installed-updates)
+- [Installed Updates](#pre-installed-apps)
+- [Removed Apps & Features](#removed-apps--features)
+- [OS Settings](#os-settings)
 
 ## What is that?
 Verdomius is a lightweight Windows 10 Gaming OS.
 
 ## Pre-Installed Updates
-KB5037768 - Cumulative Update \
-KB5032906 - Dynamic Update for Windows setup \
-KB5019180 - Intel Memory Mapped I/O Security Update \
-KB2267602 - Microsoft Defender Antivirus update (Engine v1.1.24040.1) \
-KB4052623 - Microsoft Defender Antivirus update (Platform) \
-KB5037568 - .NET Framework 3.5 and 4.8 Cumulative Update \
-KB5011048 - .NET Framework 4.8.1
+- KB5037768 - Cumulative Update \
+- KB5032906 - Dynamic Update for Windows setup \
+- KB5019180 - Intel Memory Mapped I/O Security Update \
+- KB2267602 - Microsoft Defender Antivirus update (Engine v1.1.24040.1) \
+- KB4052623 - Microsoft Defender Antivirus update (Platform) \
+- KB5037568 - .NET Framework 3.5 and 4.8 Cumulative Update \
+- KB5011048 - .NET Framework 4.8.1
 
 ## Pre-Installed Apps
-Google Chrome
+- Google Chrome
 
 ## Removed Apps & Features
-3D Viewer \
-Content Delivery Manger \
-Cortana \
-Feedback Hub \
-Get Help \
-Mail and Calendar \
-Microsoft Advertising SDK for XAML \
-Microsoft Edge \
-Microsoft Edge DevTolls Client \
-Microsoft Pay \
-Microsoft People \
-Microsoft Photos \
-Microsoft Solitaire Collection \
-Microsoft Sticky Notes \
-Mixed Reality Portal \
-Movies & TV \
-MSN Weather \
-Office \
-OneNote \
-Paint 3D \
-Skype \
-Snip & Sketch \
-Tips \
-Windows Alarms & Clock \
-Windows Camera \
-Windows Maps \
-Windows Voice Recorder \
-Xbox \
-Xbox Game Bar \
-Xbox Game Bar Plugin \
-Xbox Game Speech Window \
-Xbox Game UI \
-Xbox TCUI \
-Your Phone \
+- 3D Viewer
+- Content Delivery Manger
+- Cortana
+- Feedback Hub
+- Get Help
+- Mail and Calendar
+- Microsoft Advertising SDK for XAML
+- Microsoft Edge
+- Microsoft Edge DevTolls Client
+- Microsoft Pay
+- Microsoft People
+- Microsoft Photos
+- Microsoft Solitaire Collection
+- Microsoft Sticky Notes
+- Mixed Reality Portal
+- Movies & TV
+- MSN Weather
+- Office
+- OneNote
+- Paint 3D
+- Skype
+- Snip & Sketch
+- Tips
+- Windows Alarms & Clock
+- Windows Camera
+- Windows Maps
+- Windows Voice Recorder
+- Xbox
+- Xbox Game Bar
+- Xbox Game Bar Plugin
+- Xbox Game Speech Window
+- Xbox Game UI
+- Xbox TCUI
+- Your Phone
+*If you want to reinstall something, you can install that from the Microsoft Store*
+
+## OS Settings
+- Animation Effects: Disabled
+- Dark mode for Windows: Enabled
+- Meet Now - Taskbar Widget: Disabled
+- News And Interests - Taskbar widget: Disabled
+- Pointer options - Enhance pointer precision: Disabled
+- Search (Taskbar): Icon
+- Show accent color on Start and taskbar: Enabled
+- Show People on the taskbar: Disabled
+- Taskbar  - Small icons: Enabled
+- Use the Print scree button to open screen snipping: Enabled
+- Cache thumbnails: Disabled
+- Display icons instead of thumbnails: Enabled
+- Keep history of recently opened documents: Disabled
+- Open File Explorer to: This PC
+- Show drive letters: Drive letter after label
+- Show Task view Button: Disabled
+- Use check boxes to select items: Enable
+- View - Show extensions for know file types: Enabled
+- View - Show hidden files, folders and drives: Enabled
+- View - Show protected operating system files: Disabled
+- Allow Telemetry: Disabled
+- Autocorrect misspelled words: Disabled
+- Automatic installation of sponsored apps (Consumer Experience): Disabled
+- Automatically install suggested apps: Disabled
+- Clipboard history: Enabled
+- Cortana: Disabled
+- Cortana - Activity recommendations when switching devices: Disabled
+- Cortana - Use my signed-in devices history: Disabled
+- Cortana tray button: Disabled
+- Occasionally show suggestions in Start: Disabled
+- Pre-installed apps: Disabled
+- Pre-installed OEM apps: Disabled
+- Show me suggested content in the Settings app: Disabled
