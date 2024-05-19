@@ -11,12 +11,12 @@
 Verdomius is a lightweight Windows 10 Gaming OS.
 
 ## Pre-Installed Updates
-- KB5037768 - Cumulative Update \
-- KB5032906 - Dynamic Update for Windows setup \
-- KB5019180 - Intel Memory Mapped I/O Security Update \
-- KB2267602 - Microsoft Defender Antivirus update (Engine v1.1.24040.1) \
-- KB4052623 - Microsoft Defender Antivirus update (Platform) \
-- KB5037568 - .NET Framework 3.5 and 4.8 Cumulative Update \
+- KB5037768 - Cumulative Update
+- KB5032906 - Dynamic Update for Windows setup
+- KB5019180 - Intel Memory Mapped I/O Security Update
+- KB2267602 - Microsoft Defender Antivirus update (Engine v1.1.24040.1)
+- KB4052623 - Microsoft Defender Antivirus update (Platform)
+- KB5037568 - .NET Framework 3.5 and 4.8 Cumulative Update
 - KB5011048 - .NET Framework 4.8.1
 
 ## Pre-Installed Apps
