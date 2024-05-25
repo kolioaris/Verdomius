@@ -3,8 +3,6 @@
 - [Table of contents](#table-of-contents)
 - [What is that?](#what-is-that)
 - [How to install Verdomius OS in a computer](#how-to-install-verdomius-os-in-a-computer)
-- [Installed Updates](#pre-installed-updates)
-- [Installed Updates](#pre-installed-apps)
 - [Removed Apps & Features](#removed-apps--features)
 - [OS Settings](#os-settings)
 
@@ -27,18 +25,6 @@ Verdomius is a lightweight Windows 10 Gaming OS.
 13. Select your USB
 14. Complete the installation
 15. Done!
-
-## Pre-Installed Updates
-- KB5037768 - Cumulative Update
-- KB5032906 - Dynamic Update for Windows setup
-- KB5019180 - Intel Memory Mapped I/O Security Update
-- KB2267602 - Microsoft Defender Antivirus update (Engine v1.1.24040.1)
-- KB4052623 - Microsoft Defender Antivirus update (Platform)
-- KB5037568 - .NET Framework 3.5 and 4.8 Cumulative Update
-- KB5011048 - .NET Framework 4.8.1
-
-## Pre-Installed Apps
-- Google Chrome
 
 ## Removed Apps & Features
 - 3D Viewer
