@@ -71,7 +71,7 @@ Verdomius is a lightweight Windows 10 Gaming OS.
 - Show accent color on Start and taskbar: Enabled
 - Show People on the taskbar: Disabled
 - Taskbar  - Small icons: Enabled
-- Use the Print scree button to open screen snipping: Enabled
+- Use the Print screen button to open screen snipping: Enabled
 - Cache thumbnails: Disabled
 - Display icons instead of thumbnails: Enabled
 - Keep history of recently opened documents: Disabled
