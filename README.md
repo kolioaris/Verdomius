@@ -34,8 +34,6 @@ Verdomius is a lightweight Windows 10 Gaming OS.
 - Get Help
 - Mail and Calendar
 - Microsoft Advertising SDK for XAML
-- Microsoft Edge
-- Microsoft Edge DevTolls Client
 - Microsoft Pay
 - Microsoft People
 - Microsoft Photos
