@@ -60,7 +60,7 @@ Verdomius is a lightweight Windows 10 Gaming OS.
 - Xbox Game Speech Window
 - Xbox Game UI
 - Xbox TCUI
-- Your Phone
+- Your Phone \
 *If you want to reinstall something, you can install that from the Microsoft Store*
 
 ## OS Settings
